@@ -1,4 +1,7 @@
-# Bootstrap-Dasar
+# Bootstrap Dasar
+## Pengertian
+Bootstrap adalah kumpulan beberapa style css yang sering digunakan pada web, sehingga memudahkan para designer web untuk membuat web karena hanya tinggal memangil dari classnya saja.
+
 ## Bootstrap Alert
 ![alt text](https://github.com/AndraQeysa/Bootstrap-Dasar/blob/master/Bootstrap%20Alert.PNG)
 
